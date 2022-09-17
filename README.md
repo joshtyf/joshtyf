@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Joshua</h1>
 <h3 align="center">Cloud Security Engineer at Horangi</h3>
 
-- 🔭 I’m currently working on [Project Virtual Supermarket with Google Developer Student Club](https://dsc.comp.nus.edu.sg)
+- 🔭 I’m currently working on [developing a full stack application for Food Bank Singapore with Google Developer Student Club](https://dsc.comp.nus.edu.sg)
 
 - 🌱 I’m currently learning **about payment systems, cloud security, graphql**
 
