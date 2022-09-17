@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about payment systems, cloud security, graphql**
 
-- 👨‍💻 All of my projects are available at [https://www.joshtyf.com/#project-area](https://www.joshtyf.com/#project-area)
+- 👨‍💻 All of my projects are available at [https://www.joshtyf.com/#project-area](https://www.joshtyf.com)
 
 - 📫 How to reach me **joshua.tyf.career@gmail.com**
 
