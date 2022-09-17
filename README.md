@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Joshua Tan</h1>
+<h1 align="center">Hello! I'm Joshua</h1>
 <h3 align="center">Cloud Security Engineer at Horangi</h3>
 
 - 🔭 I’m currently working on [Project Virtual Supermarket with Google Developer Student Club](https://dsc.comp.nus.edu.sg)
