@@ -89,14 +89,6 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ascendian&cover_image=true&theme=default&bar_color_cover=true&bar_color=00a3d7" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=joshtyf&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 <div align="center"></div>
 <br />
